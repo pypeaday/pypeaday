@@ -46,7 +46,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 
-## Data
+## 📜 Data
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://yaml.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></a></code>
 
