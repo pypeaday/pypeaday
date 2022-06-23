@@ -32,6 +32,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://www.portainer.io/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/cncf/landscape/625b5dfbbb7e988147bea8f84c39fe2ac7142d3a/hosted_logos/portainer.svg"></a></code>
 
 ## Cloud
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
@@ -42,6 +43,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## Data
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<code><a href="https://yaml.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></a></code>
 
 ## Development and Tools
 
