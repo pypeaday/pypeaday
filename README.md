@@ -1,27 +1,5 @@
 ### Hi there <a href="https://www.pype.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
-<!--
-**nicpayne713/nicpayne713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- <p align="center"> -->
-<!-- <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/about-cover.png" /> -->
-<!-- <b>Leisurely exploring the software development world</b> -->
-<!-- </p> -->
-<!-- <p align="center">&nbsp;</p> -->
-<!-- <p align="center">&nbsp;</p> -->
-
-
 Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend DevSecOps.
 
 I also do date engineering and pipelineing with [kedro](https://kedro.org/).
@@ -59,6 +37,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 ## What am I blogging about?
 
 -   🐍 Python neatness 
+-  🖥    Homelabbing
 -   🎯 Visit my **mental data lake**, [here](https://pype.dev).
 <!-- <p align="center"> -->
 <!-- <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/logo-primary.png" /> -->
