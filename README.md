@@ -7,6 +7,8 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 ## :snake: Dev Tools
 <code><a href="https://neovim.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
 <code><a href="https://github.com/i3/i3" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg"></a></code>
+<code><a href="https://www.linux.com/what-is-linux/" target="_blank"><img height="50" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20210707041309"></a></code>
+
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.kedro.org/" target="_blank"><img height="50" src="https://kedro.org/images/kedro-logo.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
