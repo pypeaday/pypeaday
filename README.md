@@ -26,7 +26,8 @@ Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend De
 
 I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
-## Development 
+## Development and Tools
+
 
 -   :desktop: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="15px" height="15px"/>
 -   :man_technologist: For my terminal, I use ZSH in Kitty 
