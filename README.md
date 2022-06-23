@@ -26,10 +26,19 @@ Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend De
 
 I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
+<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
+<code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://neovim.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
+
 ## Development and Tools
 
 
--   :desktop: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="15px" height="15px"/>
+-   :computer: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="15px" height="15px"/>
 -   :man_technologist: For my terminal, I use ZSH in Kitty 
 -   :hammer_and_wrench: **Neovim** is my tool of choice for basicaly all of my development. My neovim config is [here](https://github.com/nicpayne713/dotfiles/tree/main/nvim/.config/nvim) 
 -   🐳 For containerization, I use **Docker**.
