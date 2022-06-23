@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <a href="https://www.pype.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 <!--
 **nicpayne713/nicpayne713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <!-- </p> -->
 <!-- <p align="center">&nbsp;</p> -->
 <!-- <p align="center">&nbsp;</p> -->
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-
-# Hello:wave:, and welcome to my GitHub profile!
 
 
 Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend DevSecOps. I also do date engineering and pipelineing with [kedro](https://kedro.org/).  
