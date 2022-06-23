@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <!-- </p> -->
 <!-- <p align="center">&nbsp;</p> -->
 <!-- <p align="center">&nbsp;</p> -->
-
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 # Hello:wave:, and welcome to my GitHub profile!
@@ -30,21 +29,21 @@ Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend De
 
 ## Development 
 
--   :computer: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" />
+-   :desktop:🖥My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" />
 -   :man_technologist: For my terminal, I use ZSH in Kitty 
 -   :hammer_and_wrench: **Neovim** is my tool of choice for basicaly all of my development. My neovim config is [here](https://github.com/nicpayne713/dotfiles/tree/main/nvim/.config/nvim) 
--   :whale: For containerization, I use **Docker**.
+-   🐳 For containerization, I use **Docker**.
 -   :database: I have experience working with Oracle, Snowflake MySQL, SQLlite, and Microsoft SQL Server 
--   :server: I homelab and you can find details about that at my [home server page](https://github.com/nicpayne713/home-server) 
+-   🤓 I homelab and you can find details about that at my [home server page](https://github.com/nicpayne713/home-server) 
 
 ## What am I working on?
 
-- :muscle: At home I'm working on a self-hosted wish list app
+-  💫 At home I'm working on a self-hosted wish list app
 
 ## What am I blogging about?
 
--   :snake: Python neatness 
--   :dart: Visit my **mental data lake**, [here](https://pype.dev).
+-   🐍 Python neatness 
+-   🎯 Visit my **mental data lake**, [here](https://pype.dev).
 <!-- <p align="center"> -->
 <!-- <img src="https://github.com/wanderindev/wanderindev/blob/master/assets/logo-primary.png" /> -->
 <!-- </p> -->
@@ -61,4 +60,4 @@ Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend De
 <!-- - 🐘 [Six-Step Relational Database Design](https://www.amazon.com/Six-Step-Relational-Database-Design-development/dp/1481942727/ref=sr_1_1?dchild=1&keywords=six+step+relational+database+design&qid=1587265197&sr=8-1) by [Fidel A. Captain](https://www.fidelcaptain.com/) is an excellent practical book.  It covers the entire database design process from studying the customer's requirements to design implementation.  To illustrate each design step, the author uses three case studies of different degrees of complexity. -->
 <!-- - :alarm_clock: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=2FD1OUTDC54F4&keywords=cracking+the+coding+interview&qid=1655494723&sprefix=crac%2Caps%2C919&sr=8-1). This book is pretty dense, but it's an excellent resource for preparing for a technical interview in any language. -->
 ## Let's connect!
--    :tree: My [littlelink](https://littlelink.paynepride.com) is the place to find the places to find me 🤓
+-   🌱  My [littlelink](https://littlelink.paynepride.com) is the place to find the places to find me 🤓
