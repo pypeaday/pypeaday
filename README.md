@@ -22,14 +22,15 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/aws-eventbridge.svg"></a></code>
 
 ## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1164330.png&f=1&nofb=1)" width="40" > Databases
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 <code><a href="https://www.oracle.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 
 ## 📜 Data
+<code><a href="https://parquet.apache.org/" target="_blank"><img height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F474255479032385537%2FOGYr_m6J.jpeg&f=1&nofb=1"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://yaml.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></a></code>
 
