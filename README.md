@@ -27,14 +27,12 @@ Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend De
 I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## Development and Tools
+![image](https://user-images.githubusercontent.com/32268273/175293424-ac4b874f-90e3-4f57-b76e-be838fd1a95e.png)
+![image](https://user-images.githubusercontent.com/32268273/175293506-315ab4de-13be-4e0f-8ed2-8be8342e7fcb.png)
+![image](https://user-images.githubusercontent.com/32268273/175293623-8726f8b9-aa71-485a-9d09-15ae9b7679ec.png)
+![image](https://user-images.githubusercontent.com/32268273/175293751-d340fc87-e61a-4f52-a344-1a9674f4b78c.png)
 
 
--   :desktop: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="15px" height="15px"/>
--   :man_technologist: For my terminal, I use ZSH in Kitty 
--   :hammer_and_wrench: **Neovim** is my tool of choice for basicaly all of my development. My neovim config is [here](https://github.com/nicpayne713/dotfiles/tree/main/nvim/.config/nvim) 
--   🐳 For containerization, I use **Docker**.
--   :database: I have experience working with Oracle, Snowflake MySQL, SQLlite, and Microsoft SQL Server 
--   🤓 I homelab and you can find details about that at my [home server page](https://github.com/nicpayne713/home-server) 
 
 ## What am I working on?
 
