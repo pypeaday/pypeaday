@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 <!-- <p align="center">&nbsp;</p> -->
 
 
-Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend DevSecOps. I also do date engineering and pipelineing with [kedro](https://kedro.org/).  
+Hi! I'm **Nic Payne**! I am **python developer** that works mostly in backend DevSecOps.
+
+I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## Development 
 
--   :desktop:🖥My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" />
+-   :desktop: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="25px" height="25px"/>
 -   :man_technologist: For my terminal, I use ZSH in Kitty 
 -   :hammer_and_wrench: **Neovim** is my tool of choice for basicaly all of my development. My neovim config is [here](https://github.com/nicpayne713/dotfiles/tree/main/nvim/.config/nvim) 
 -   🐳 For containerization, I use **Docker**.
