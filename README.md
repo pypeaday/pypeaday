@@ -28,6 +28,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## :snake: Dev Tools
 <code><a href="https://neovim.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
+<code><a href="https://github.com/i3/i3" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/I3_window_manager_logo.svg"></a></code>
 
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://jupyter.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></a></code>
@@ -50,15 +51,6 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://yaml.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></a></code>
 
-## Development and Tools
-
-
--   :computer: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="15px" height="15px"/>
--   :man_technologist: For my terminal, I use ZSH in Kitty 
--   :hammer_and_wrench: **Neovim** is my tool of choice for basicaly all of my development. My neovim config is [here](https://github.com/nicpayne713/dotfiles/tree/main/nvim/.config/nvim) 
--   🐳 For containerization, I use **Docker**.
--   :database: I have experience working with Oracle, Snowflake MySQL, SQLlite, and Microsoft SQL Server 
--   🤓 I homelab and you can find details about that at my [home server page](https://github.com/nicpayne713/home-server) 
 
 ## What am I working on?
 
