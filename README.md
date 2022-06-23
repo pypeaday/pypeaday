@@ -24,6 +24,8 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 ## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1164330.png&f=1&nofb=1)" width="40" > Databases
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.sqlite.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
+<code><a href="https://www.oracle.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
+<code><a href="https://www.snowflake.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg"></a></code>
 
 ## 📜 Data
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
