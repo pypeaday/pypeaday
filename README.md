@@ -28,7 +28,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## Development 
 
--   :desktop: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="25px" height="25px"/>
+-   :desktop: My desktop runs Ubuntu  <img src="https://logos-download.com/wp-content/uploads/2016/02/Ubuntu.png" width="15px" height="15px"/>
 -   :man_technologist: For my terminal, I use ZSH in Kitty 
 -   :hammer_and_wrench: **Neovim** is my tool of choice for basicaly all of my development. My neovim config is [here](https://github.com/nicpayne713/dotfiles/tree/main/nvim/.config/nvim) 
 -   🐳 For containerization, I use **Docker**.
