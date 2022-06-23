@@ -14,6 +14,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 <code><a href="https://www.portainer.io/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/cncf/landscape/625b5dfbbb7e988147bea8f84c39fe2ac7142d3a/hosted_logos/portainer.svg"></a></code>
+<code><a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
 
 ##   🌩Cloud 
 <!-- <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code> -->
@@ -30,7 +31,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a></code>
 
 ## 📜 Data
-<code><a href="https://parquet.apache.org/" target="_blank"><img height="50" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F474255479032385537%2FOGYr_m6J.jpeg&f=1&nofb=1"></a></code>
+<code><a href="https://parquet.apache.org/" target="_blank"><img height="50" src="https://github.com/nicpayne713/nicpayne713/blob/main/assets/parquet-removebg-preview.png?raw=true"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://yaml.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></a></code>
 
