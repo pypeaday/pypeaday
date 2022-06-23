@@ -38,6 +38,9 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## Cloud
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/aws-s3.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/aws-batch.svg"></a></code>
+<code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/aws-eventbridge.svg"></a></code>
 
 ## Databases
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
