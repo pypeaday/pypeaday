@@ -52,5 +52,9 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 -  🖥    Homelabbing
 -   🎯 Visit my **mental data lake**, [here](https://pype.dev).
 
+## Stats
+
+![My Github stats](https://github-readme-stats.vercel.app/api?username=nicpayne713&show_icons=true&hide_border=true)
+
 ## Let's connect!
 -   🌱  My [littlelink](https://littlelink.paynepride.com) is the place to find the places to find me 🤓
