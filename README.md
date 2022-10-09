@@ -26,7 +26,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/aws-s3.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/aws-batch.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://raw.githubusercontent.com/gilbarbara/logos/80c549990a0f513dcbaf3c9eab6a1a620df76088/logos/aws-eventbridge.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://github.com/nicpayne713/nicpayne713/blob/main/assets/azure-removebg-preview.png?raw=true"></a></code>
+<code><a href="" target="_blank"><img height="50" src="https://github.com/pypeaday/pypeaday/blob/main/assets/azure-removebg-preview.png?raw=true"></a></code>
 
 ## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1164330.png&f=1&nofb=1)" width="40" > Databases
 <code><a href="" target="_blank"><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg"></a></code>
@@ -36,7 +36,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 <code><a href="https://www.oracle.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></a></code>
 
 ## 📜 Data
-<code><a href="https://parquet.apache.org/" target="_blank"><img height="50" src="https://github.com/nicpayne713/nicpayne713/blob/main/assets/parquet-removebg-preview.png?raw=true"></a></code>
+<code><a href="https://parquet.apache.org/" target="_blank"><img height="50" src="https://github.com/pypeaday/pypeaday/blob/main/assets/parquet-removebg-preview.png?raw=true"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
 <code><a href="https://yaml.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-icon.svg"></a></code>
 
@@ -54,7 +54,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## Stats
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=nicpayne713&show_icons=true&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=pypeaday&show_icons=true&hide_border=true)
 
 ## Let's connect!
 -   🌱  My [littlelink](https://pypeaday.github.io/littlelink/) is the place to find the places to find me 🤓
