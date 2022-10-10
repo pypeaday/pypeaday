@@ -43,7 +43,7 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 
 ## What am I working on?
 
--  💫 At home I'm working on a self-hosted wish list app
+-  💫 At home I'm currently distracted with my [Stable Diffusion Gallery](https://pypeaday.github.io/stable-diffusion-pype-dev/)
 -  🥼 Constant homelab applications
 
 ## What am I blogging about?
@@ -55,6 +55,10 @@ I also do date engineering and pipelineing with [kedro](https://kedro.org/).
 ## Stats
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=pypeaday&show_icons=true&hide_border=true)
+
+## Holos
+
+[![@pypeaday's Holopin board](https://holopin.io/api/user/board?user=pypeaday)](https://holopin.io/@pypeaday)
 
 ## Let's connect!
 -   🌱  My [littlelink](https://pypeaday.github.io/littlelink/) is the place to find the places to find me 🤓
