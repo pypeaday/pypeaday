@@ -8,7 +8,7 @@ Hi! I'm **Nic Payne**! I am into DevOps, Python, and Kubernetes. I'm passionate 
 
 ## 🛠 Dev Tools
 <code><a href="https://neovim.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview?image=/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
 <code><a href="https://www.linux.com/what-is-linux/" target="_blank"><img height="50" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20210707041309"></a></code>
 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
@@ -19,8 +19,8 @@ Hi! I'm **Nic Payne**! I am into DevOps, Python, and Kubernetes. I'm passionate 
 ## 🛠 Infrastructure
 
 <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
-
 <code><a href="https://helm.sh/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a></code>
+<code><a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a></code>
 
 <code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a></code>
 <code><a href="https://spacelift.io/" target="_blank"><img height="50" src="https://d1.awsstatic.com/customer-references-case-studies-logos/spacelift-logo%402x.f93aa4cf811b7a39c7e4c05d982d7ebf1f618757.png"></a></code>
