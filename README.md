@@ -18,12 +18,12 @@ Hi! I'm **Nic Payne**! I am into DevOps, Python, and Kubernetes. I'm passionate 
 
 ## 🛠 Infrastructure
 
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview?image=/logos/kubernetes/kubernetes-icon.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
 
-<code><a href="https://helm.sh/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview?image=/logos/helmsh/helmsh-icon.svg"></a></code>
+<code><a href="https://helm.sh/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a></code>
 
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/util/preview?image=/logos/terraformio/terraformio-icon.svg"></a></code>
-<code><a href="https://spacelift.io/" target="_blank"><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmqtzSHBQsGwmWNH3Ljh4k1Mp_HFkdMm92zuhVE-Sixw&s"></a></code>
+<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a></code>
+<code><a href="https://spacelift.io/" target="_blank"><img height="50" src="https://d1.awsstatic.com/customer-references-case-studies-logos/spacelift-logo%402x.f93aa4cf811b7a39c7e4c05d982d7ebf1f618757.png"></a></code>
 
 ## What am I working on?
 
