@@ -1,49 +1,50 @@
-### Hi there <a href="https://www.pype.dev/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
+# Nic Payne | [@pypeaday](https://www.pype.dev/) 👋
 
-Hi! I'm **Nic Payne**! I am into DevOps, Python, and Kubernetes. I'm passionate about the developer experience and and try to make tools for my team mates that make their lives better on the dev front.
+[![Website](https://img.shields.io/badge/Website-pype.dev-blue?style=flat-square&logo=firefox)](https://www.pype.dev/)
+[![Blog](https://img.shields.io/badge/Blog-Mental_Data_Lake-orange?style=flat-square&logo=rss)](https://pype.dev)
+[![Connect](https://img.shields.io/badge/Connect-littlelink-green?style=flat-square&logo=linktree)](https://mydigitalharbor.com/pypeaday)
 
-## :snake: Data Engineering
-<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://www.kedro.org/" target="_blank"><img height="50" src="https://kedro.org/images/kedro-logo.svg"></a></code>
+> DevOps engineer, Python enthusiast, and Kubernetes advocate passionate about improving developer experience through better tooling.
 
-## 🛠 Dev Tools
-<code><a href="https://neovim.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></a></code>
-<code><a href="https://code.visualstudio.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a></code>
-<code><a href="https://www.linux.com/what-is-linux/" target="_blank"><img height="50" src="https://static.wikia.nocookie.net/logopedia/images/3/35/Tux.svg/revision/latest/scale-to-width-down/200?cb=20210707041309"></a></code>
+## 🔧 Tech Stack
 
-<code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+### Data Engineering
 
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
-<code><a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></a></code>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kedro](https://img.shields.io/badge/Kedro-FFC900?style=for-the-badge&logo=kedro&logoColor=black)
 
-## 🛠 Infrastructure
+### Development Tools
 
-<code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
-<code><a href="https://helm.sh/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"></a></code>
-<code><a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg"></a></code>
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-<code><a href="https://www.terraform.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"></a></code>
-<code><a href="https://spacelift.io/" target="_blank"><img height="50" src="https://d1.awsstatic.com/customer-references-case-studies-logos/spacelift-logo%402x.f93aa4cf811b7a39c7e4c05d982d7ebf1f618757.png"></a></code>
+### Infrastructure
 
-## What am I working on?
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Spacelift](https://img.shields.io/badge/Spacelift-5A45FF?style=for-the-badge&logo=spacelift&logoColor=white)
 
--  💫 At home I'm currently distracted with my [Stable Diffusion Gallery](https://pypeaday.github.io/stable-diffusion-pype-dev/)
--  🥼 Constant homelab applications
--  🌱 [Digital Harbor](https://mydigitalharbor.com)
+## 🚀 Current Projects
 
-## What am I blogging about?
+- 💫 [Stable Diffusion Gallery](https://pypeaday.github.io/stable-diffusion-pype-dev/) - My AI art experiments
+- 🥼 Homelab infrastructure and applications
+- 🌱 [Digital Harbor](https://mydigitalharbor.com) - Professional work
 
--   🐍 Python neatness 
--  🖥    Homelabbing
--   🎯 Visit my **mental data lake**, [here](https://pype.dev).
+## ✍️ Blog Topics
 
+- 🐍 Python tips, tricks, and best practices
+- 🖥️ Homelab setup and configurations
+- 🎯 Thoughts and insights on my [mental data lake](https://pype.dev)
 
+<!-- Commented sections preserved from original README -->
 <!-- ## Stats -->
 <!-- ![My Github stats](https://github-readme-stats.vercel.app/api?username=pypeaday&show_icons=true&hide_border=true) -->
 
 <!-- ## Holos -->
-
 <!-- [![@pypeaday's Holopin board](https://holopin.io/api/user/board?user=pypeaday)](https://holopin.io/@pypeaday) -->
-
-## Let's connect!
--   🌱  My [littlelink](https://pypeaday.github.io/littlelink/) is the place to find the places to find me 🤓
