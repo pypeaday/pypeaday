@@ -1,6 +1,5 @@
 # Nic Payne | [@pypeaday](https://www.pype.dev/) 👋
 
-[![Website](https://img.shields.io/badge/Website-pype.dev-blue?style=flat-square&logo=firefox)](https://www.pype.dev/)
 [![Blog](https://img.shields.io/badge/Blog-Mental_Data_Lake-orange?style=flat-square&logo=rss)](https://pype.dev)
 [![Connect](https://img.shields.io/badge/Connect-DigitalHarbor-green?style=flat-square&logo=linktree)](https://mydigitalharbor.com/pypeaday)
 
