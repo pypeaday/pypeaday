@@ -7,10 +7,10 @@
 
 ## 🔧 Tech Stack
 
-### Data Engineering
+### Coding
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kedro](https://img.shields.io/badge/Kedro-FFC900?style=for-the-badge&logo=kedro&logoColor=black)
+![Agentic Tools](https://img.shields.io/badge/Agentic_Tools-FFC900?style=for-the-badge&logo=openai&logoColor=white)
 
 ### Development Tools
 
@@ -27,7 +27,6 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Spacelift](https://img.shields.io/badge/Spacelift-5A45FF?style=for-the-badge&logo=spacelift&logoColor=white)
 
 ## 🚀 Current Projects
 
